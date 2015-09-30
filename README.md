@@ -8,6 +8,9 @@ http://www.sqldashboards.com/help/video-tutorial/kdb-database-live-charting
 
 
 Ruby Gems
+
+https://github.com/sferik/twitter
+
 https://github.com/tweetstream/tweetstream
 
 https://github.com/cantino/twitter_to_csv
